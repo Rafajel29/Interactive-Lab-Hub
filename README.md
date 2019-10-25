@@ -8,6 +8,7 @@ Completed Labs for Frans Fourie.
 4. [Frans Fourie's Lab 4](https://github.com/Rafajel29/IDD-Fa19-Lab4)
 5. [Frans Fourie's Lab 5](https://github.com/Rafajel29/IDD-Fa19-Lab5)
 6. [Frans Fourie's Lab 6](https://github.com/Rafajel29/IDD-Fa19-Lab6)
+7. [Frans Fourie's Lab 7](https://github.com/Rafajel29/IDD-Fa19-Lab7)
 
 
 
